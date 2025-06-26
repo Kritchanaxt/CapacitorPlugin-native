@@ -1,0 +1,1 @@
+# CapacitorPlugin-native
