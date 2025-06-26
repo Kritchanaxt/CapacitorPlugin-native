@@ -1,0 +1,7 @@
+{
+  "name": "my-ocr-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
